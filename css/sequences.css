@@ -42,9 +42,9 @@ body {
 
 #explanation {
   position: absolute;
-  top: 260px;
-  left: 305px;
-  width: 140px;
+  top: 20px;
+  left: 30px;
+  width: 200px;
   text-align: center;
   color: #666;
   z-index: -1;
@@ -53,4 +53,3 @@ body {
 #percentage {
   font-size: 2.5em;
 }
-
